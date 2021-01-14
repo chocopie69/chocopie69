@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to da choco pie profile
 
-<!--
-**chocopie69/chocopie69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+* Name: r u blind
+* Gender: Male
+* I'm retarded please tell me how to code!
+* Pasting instead of actually coding
+* I play block game every day!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Informations
+* Discord: chocopie#7690
+* Youtube: [Choco Pie] (youtube.com/c/ChocoPieSkidder)
+* Discord server: [Choco Pie Lovers] (discord.gg/J7at59u)
+
+## Favourite things to do
+* Skid
+* Copy
+* Paste
+* Play da block game
+
