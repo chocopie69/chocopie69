@@ -1,6 +1,6 @@
 # Hello everyone!
 
-## I'm chococpie. You are viewing my profile
+## I'm chocopie. You are viewing my profile
 
 ## Informations
 
