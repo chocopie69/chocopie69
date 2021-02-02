@@ -1,13 +1,13 @@
-# Hello everyone!
+# chocopie $$
 
-## I'm chocopie. You are viewing my profile
+sgima client on TOP
 
 ## Informations
 
-* I play minecraft yes
-* I cheat in minecraft!!!!!
+* I ~don't~ play minecraft
+* I cheat in minecraft!!11!1!
 * I like pasting and skidding stuffs to my shitty client
 * My Discord account: chocopie#7690
-* My Discord server: [Choco Pie Lovers](https://discord.gg/J7at59u)
-* My Youtube channel: [Choco Pie](https://www.youtube.com/channel/UCHeXT2F-bUCSensYs6iQEng)
+* This is an IP logger link don't click: [Choco Pie Lovers](https://discord.gg/J7at59u)
+* Pornhub account: [Choco Pie](https://www.youtube.com/channel/UCHeXT2F-bUCSensYs6iQEng)
 
