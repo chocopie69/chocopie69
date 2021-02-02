@@ -10,7 +10,7 @@ public String Informations {
   Discord account: chocopie#7690
   This is an IP logger link don't click: https://discord.gg/J7at59u
   Pornhub account: https://www.youtube.com/channel/UCHeXT2F-bUCSensYs6iQEng
-  return null;
+  return "plz help I can't code";
 }
 ```
   
