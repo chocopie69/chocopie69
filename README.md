@@ -1,6 +1,6 @@
 ## Hello, I'm chocopie
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=chocopie69&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=chocopie69&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
 
 Discord (please, do not contact me, I beg you): chocopie#8543
 
@@ -17,7 +17,7 @@ youtube: [epic cool channel](https://youtube.com/chocopiepogger)
 - Learn Java and OpenGL
 - Stop being retarded
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocopie69&layout=compact)](https://github.com/chocopie69/github-readme-stats)
+![chocopie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia)
 
   
 
