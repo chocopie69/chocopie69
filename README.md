@@ -15,8 +15,8 @@ youtube: [epic cool channel](https://youtube.com/chocopiepogger)
 
 ![chocopie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia)
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/724277801565290546.png" />
+<p align="left">
+  <img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />
 </p>
 
   
