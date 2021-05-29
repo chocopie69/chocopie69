@@ -2,10 +2,6 @@
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=chocopie69&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
 
-Discord (please, do not contact me, I beg you): chocopie#8543
-
-Discord Server (pray allah) (do not join or you will get pinged 69420 times a day): [🙏 OMIKRON ALLAH حفظنا الله آمين](https://discord.gg/CfkHpUfXVc)
-
 youtube: [epic cool channel](https://youtube.com/chocopiepogger)
 
 ### Goals:
@@ -18,6 +14,10 @@ youtube: [epic cool channel](https://youtube.com/chocopiepogger)
 - Stop being retarded
 
 ![chocopie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia)
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/724277801565290546.png" />
+</p>
 
   
 
