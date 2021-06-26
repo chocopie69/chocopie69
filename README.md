@@ -15,8 +15,8 @@
 ### professional code stealer
 ### Links:
 - yt: https://youtube.com/chocopiepogger
-- github: https://github.com/chocopie69
 - osu profile: https://osu.ppy.sh/users/17872227
+- reddit: https://www.reddit.com/user/ChocoPiePogger
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
