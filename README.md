@@ -12,10 +12,10 @@
   <img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />
 </p>
 
-### professional code stealer
-### Links:
-- yt: https://youtube.com/chocopiepogger
-- osu profile: https://osu.ppy.sh/users/17872227 (i farm pp)
+### professional code stealer, autistic monkey from Vietnamzz
+### cool stuffs
+- yt: https://youtube.com/chocopiepogger (dead channel)
+- osu profile: https://osu.ppy.sh/users/17872227 (dont play anymore)
 - reddit: https://www.reddit.com/user/ChocoPiePogger 
 
 <p align="center">
