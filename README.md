@@ -21,6 +21,7 @@
 - yt: https://youtube.com/chocopiepogger (dead channel)
 - osu profile: https://osu.ppy.sh/users/17872227 (dont play anymore)
 - reddit: https://www.reddit.com/user/ChocoPiePogger 
+- steam: https://steamcommunity.com/id/ch0c0p13/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chocopie69&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
