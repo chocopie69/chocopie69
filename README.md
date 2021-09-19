@@ -15,8 +15,9 @@
 <p align="center">
   <a href="https://discord.com/users/724277801565290546"><img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />                                                                                                                                    </a>
 </p>
-###<center>professional code stealer, autistic monkey from Vietnamzz</center>
-###<center> cool stuffs</center>
+<center><b>professional code stealer, autistic monkey from Vietnamzz</b></center>
+
+<center><b>cool stuffs</b></center>
 
 
 - yt: https://youtube.com/chocopiepogger (dead channel)
