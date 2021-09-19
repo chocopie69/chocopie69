@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a herf="url">https://discord.com/users/724277801565290546 />
+  <img url=https://discord.com/users/724277801565290546 />
   <img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />
 </p>
 
