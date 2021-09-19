@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="url="https://discord.com/users/724277801565290546"><img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />                                                                                                                                    </a>
+  <a href="https://discord.com/users/724277801565290546"><img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />                                                                                                                                    </a>
 </p>
 
 ### professional code stealer, autistic monkey from Vietnamzz
