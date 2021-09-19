@@ -15,10 +15,10 @@
 <p align="center">
   <a href="https://discord.com/users/724277801565290546"><img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />                                                                                                                                    </a>
 </p>
-<p style="text-align:center">
+<p align="center">
 <b>professional code stealer, autistic monkey from Vietnamzz</b>
 </p>
-<p style="text-align:center">
+<p align="center">
 <b>cool stuffs</b>
 </p>
 
