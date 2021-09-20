@@ -15,9 +15,13 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />
 </p>
+<p align="center">
+<b>autistic monkey from vietnam, csgo / splitgate player</b>
+</p>
+<p align="center">
+<b>cool stuffs</b>
+</p>
 
-### professional code stealer, autistic monkey from Vietnamzz
-### cool stuffs
 <p align="center">
   <a href="https://youtube.com/chocopiepogger"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                    </a>
   <a href="https://osu.ppy.sh/users/17872227"><img src="https://img.shields.io/badge/Osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white" />                                                                                                                                    </a>
