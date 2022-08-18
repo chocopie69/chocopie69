@@ -5,18 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/52yl2JN.png">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/XH10Uy7.gif" />
+  <img src="https://i.imgur.com/gjOqNeW.png">
 </p>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/724277801565290546.png" />
 </p>
 <p align="center">
-<b>autistic monkey from vietnam</b>
+<b>random monkey from vietnam</b>
 </p>
 <p align="center">
 <b>cool stuffs</b>
